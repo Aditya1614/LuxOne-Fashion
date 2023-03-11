@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163853487031",
+    "project_id": "mobile-programming-fe5a0",
+    "storage_bucket": "mobile-programming-fe5a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163853487031:android:bb6d1a475e48fe95e03632",
+        "android_client_info": {
+          "package_name": "com.adityacg.project01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163853487031-e0s4ae8unekhnvhgnauesial54kvt3vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMw1mjqHq3UVwamnuH3srFfMyXA6M8ztQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163853487031-e0s4ae8unekhnvhgnauesial54kvt3vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
