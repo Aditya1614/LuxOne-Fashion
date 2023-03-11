@@ -5,3 +5,6 @@
 </p>
 
 ## Collaborators
+<a href="https://github.com/Aditya1614">Aditya Candra Gumilang (Team Leader)<a>
+<a href="https://github.com/B4gasAhmad">Bagas Ahmad Faizal<a>
+<a href="https://github.com/RyuuKieru29">Rizky Nur Adi Saputra<a>
