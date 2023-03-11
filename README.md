@@ -3,7 +3,7 @@
 E-Commerce App made with Flutter and Firebase
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93992324/224483116-91740e41-b5b3-485f-9d59-c5a7bc4653fc.jpeg" width="150"/><img src="https://user-images.githubusercontent.com/93992324/224483249-47e634d1-7f3a-42e6-92d5-835bf02ae5bf.jpeg" width="150"/><img src="https://user-images.githubusercontent.com/93992324/224483259-da6236e2-ff15-4458-b517-029b870b4497.jpeg" width="150"/><img src="https://user-images.githubusercontent.com/93992324/224483262-4a4335cd-32cf-4862-850b-b4a9cf088aea.jpeg" width="150"/><img src="https://user-images.githubusercontent.com/93992324/224483268-64643d4a-0eb3-454d-8064-0bb97e91ac1b.jpeg" width="150"/>
+<img src="https://user-images.githubusercontent.com/93992324/224491877-bc5e781e-f3cc-4a8d-a626-0400b2a5edf0.jpg" width="750"/>
 </p>
 
 ## Contributors
